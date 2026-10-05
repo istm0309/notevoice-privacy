@@ -39,8 +39,9 @@ init(이하 "운영자")는 NoteVoice 앱(이하 "앱")을 제공하며, 이용�
 ## 4. 개인정보의 보유와 이용 기간
 
 - 마이크 음성과 악보: 앱 안에서 이용자가 삭제하거나 앱을 삭제할 때까지 기기에만 있습니다.
-- Google 계정 식별자와 사용 횟수: 로그인 계정을 유지하는 동안 보관하며, 삭제를 요청하면 지체 없이 삭제합니다. 사용 횟수는
-  날짜별로 기록되며 하루 단위 제한 외의 용도로 쓰지 않습니다.
+- Google 계정 식별자와 사용 횟수: 로그인 계정을 유지하는 동안 보관합니다. 사용 횟수는 날짜별로 기록되며 하루 단위 제한 외의
+  용도로 쓰지 않습니다. 이용자가 계정을 삭제하면 계정과 지난 사용 기록은 즉시 삭제됩니다. 다만 삭제 후 다시 가입해 그날의 무료
+  횟수를 되돌리는 것을 막기 위해, **당일의 사용 기록 1건은 최대 3일 뒤 자동으로 삭제**됩니다.
 - 법령에서 따로 보관을 정한 경우에는 그 기간 동안 보관합니다.
 
 ## 5. 제3자 제공과 처리 위탁
@@ -63,7 +64,8 @@ init(이하 "운영자")는 NoteVoice 앱(이하 "앱")을 제공하며, 이용�
 - 앱 설정에서 **로그아웃**하기
 - 기기의 앱 설정에서 **마이크 권한 해제**하기
 - 앱 데이터 삭제 또는 앱 삭제로 기기 안의 악보와 설정 지우기
-- 서버에 저장된 계정 식별자와 사용 횟수의 **열람, 삭제 요청** (아래 연락처)
+- 앱 설정의 **계정 삭제** 버튼으로 계정과 서버에 저장된 사용 기록을 직접 삭제하기 (앱을 지우거나 이메일로 요청하지 않아도 됩니다)
+- 서버에 저장된 정보의 **열람 요청** (아래 연락처)
 
 ## 7. 만 14세 미만 아동
 
@@ -129,8 +131,9 @@ When you share an exported file, what the receiving app does with it is governed
 ## 4. Retention
 
 - Audio and scores stay on your device until you delete them or uninstall the App.
-- Your Google account identifier and usage counts are kept while your account is in use, and deleted promptly on request.
-  Usage counts are recorded per day and used only for the daily limit.
+- Your Google account identifier and usage counts are kept while your account is in use. Usage counts are recorded per day and used
+  only for the daily limit. When you delete your account, the account and past usage records are deleted immediately. To stop someone
+  from deleting and re-registering to get back the day's free export, **today's single usage record is deleted automatically within 3 days**.
 - We keep data longer only where the law requires it.
 
 ## 5. Sharing and service providers
@@ -152,7 +155,8 @@ You can at any time:
 - **Sign out** in the App settings
 - **Revoke the microphone permission** in your device's app settings
 - Delete scores and settings on the device by clearing app data or uninstalling the App
-- **Request access to or deletion of** the account identifier and usage counts stored on our server (contact below)
+- Use **Delete account** in the App settings to delete your account and the usage records stored on our server yourself (no need to uninstall or email us)
+- **Request access to** the information stored on our server (contact below)
 
 ## 7. Children
 
