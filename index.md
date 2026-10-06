@@ -88,6 +88,29 @@ init(이하 "운영자")는 NoteVoice 앱(이하 "앱")을 제공하며, 이용�
 개인정보 관련 문의, 열람과 삭제 요청: istm0309@gmail.com
 개인정보 보호책임자: init
 
+<a id="delete-account"></a>
+
+## 11. 계정 삭제 방법
+
+NoteVoice에서는 Google 계정으로 로그인한 경우에만 서버에 정보가 저장되며, 아래 두 방법 중 하나로 삭제할 수 있습니다.
+
+**방법 1. 앱에서 직접 삭제 (가장 빠름)**
+1. 앱 하단의 **녹음** 탭을 엽니다.
+2. **설정** 카드를 눌러 펼칩니다.
+3. **계정 삭제**를 누르고, 확인 창에서 **삭제**를 누릅니다.
+
+**방법 2. 이메일로 삭제 요청**
+- 로그인에 사용한 Google 계정의 이메일 주소에서 **istm0309@gmail.com** 으로 "계정 삭제 요청"이라는 제목의 메일을 보내 주세요. 요청 확인 후 7일 이내에 삭제하고 회신합니다. 앱을 이미 지운 경우에도 이 방법으로 삭제할 수 있습니다.
+
+**삭제되는 정보**
+- Google 계정 식별자와 이메일 주소(Firebase 인증 정보)
+- 서버에 저장된 날짜별 무료 내보내기 사용 기록과 광고 실패 허용 기록
+
+**남는 정보**
+- 삭제한 날의 사용 기록 1건은 다시 가입해 무료 횟수를 되돌리는 것을 막기 위해 최대 3일 뒤 자동으로 삭제됩니다.
+- 기기에 저장된 악보와 설정은 서버에 없으므로 삭제 대상이 아닙니다. 앱 데이터를 지우거나 앱을 삭제하면 사라집니다.
+- Google Play 구독은 이 삭제와 별개입니다. 구독은 Google Play 스토어 → 결제 및 정기 결제에서 직접 해지하세요.
+
 ---
 
 # English
@@ -178,3 +201,26 @@ If this policy changes, we will post the changes and the effective date on this 
 
 Questions, access and deletion requests: istm0309@gmail.com
 Privacy officer: init
+
+<a id="delete-account-en"></a>
+
+## 11. How to delete your account
+
+Information is stored on our server only if you signed in with Google. You can delete it in either of these ways.
+
+**Option 1. Delete it in the App (fastest)**
+1. Open the **Record** tab at the bottom of the App.
+2. Tap the **Settings** card to expand it.
+3. Tap **Delete account**, then tap **Delete** in the confirmation.
+
+**Option 2. Request deletion by email**
+- From the email address of the Google account you signed in with, send a message titled "Account deletion request" to **istm0309@gmail.com**. We will delete the account within 7 days of confirming the request and reply to you. This also works if you have already uninstalled the App.
+
+**What is deleted**
+- Your Google account identifier and email address (Firebase Authentication data)
+- Your daily free-export usage records and ad-failure allowance records stored on the server
+
+**What remains**
+- The single usage record for the day of deletion is removed automatically within 3 days, to stop someone from deleting and re-registering to get the day's free export back.
+- Scores and settings saved on your device are not on our server, so they are not part of this deletion. Clearing the App's data or uninstalling the App removes them.
+- A Google Play subscription is separate from this deletion. Cancel it yourself in Google Play Store → Payments & subscriptions.
