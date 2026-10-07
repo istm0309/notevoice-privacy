@@ -1,9 +1,9 @@
 # 한국어
 
-**NoteVoice 개인정보 처리방침**
+**보이스노트 개인정보 처리방침**
 시행일: 2026년 10월 5일
 
-init(이하 "운영자")는 NoteVoice 앱(이하 "앱")을 제공하며, 이용자의 개인정보를 소중히 다룹니다.
+init(이하 "운영자")는 보이스노트 앱(이하 "앱")을 제공하며, 이용자의 개인정보를 소중히 다룹니다.
 이 방침은 앱이 어떤 정보를 어떻게 다루는지 설명합니다.
 
 ## 1. 요약
@@ -92,7 +92,7 @@ init(이하 "운영자")는 NoteVoice 앱(이하 "앱")을 제공하며, 이용�
 
 ## 11. 계정 삭제 방법
 
-NoteVoice에서는 Google 계정으로 로그인한 경우에만 서버에 정보가 저장되며, 아래 두 방법 중 하나로 삭제할 수 있습니다.
+보이스노트에서는 Google 계정으로 로그인한 경우에만 서버에 정보가 저장되며, 아래 두 방법 중 하나로 삭제할 수 있습니다.
 
 **방법 1. 앱에서 직접 삭제 (가장 빠름)**
 1. 앱 하단의 **녹음** 탭을 엽니다.
@@ -115,10 +115,10 @@ NoteVoice에서는 Google 계정으로 로그인한 경우에만 서버에 정�
 
 # English
 
-**NoteVoice Privacy Policy**
+**Voice to Sheet Music Privacy Policy**
 Effective date: October 5, 2026
 
-init ("we") provides the NoteVoice app (the "App"). This policy explains what the App does with your information.
+init ("we") provides the Voice to Sheet Music app (the "App"). This policy explains what the App does with your information.
 
 ## 1. Summary
 
